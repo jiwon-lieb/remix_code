@@ -8,7 +8,7 @@ import "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol";
 
 /**
  * Request testnet LINK here: https://faucets.chain.link/
- * Find information on LINK Token Contracts and get the latest ETH and LINK faucets here: https://docs.chain.link/docs/link-token-contracts/
+ * Find information on LINK Token Contracts and get the latest LINK faucets here: https://docs.chain.link/docs/link-token-contracts/
  */
 
 /**
